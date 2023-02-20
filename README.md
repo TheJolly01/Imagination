@@ -38,4 +38,5 @@ The trial version of the game, written in c++, is a version written in Italian. 
 
 ## Support me
 Anyone who likes the project and wants to help out a little without writing a single line of code can donate a coffee for a better game.
+Here you can support me: https://www.paypal.com/donate/?hosted_button_id=FCB5D99SFBB3Y
 ![Support banner](https://user-images.githubusercontent.com/86883141/220172571-6c0366b8-5da6-40a7-8122-f4c2a650537c.png)
